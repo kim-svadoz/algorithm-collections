@@ -38,7 +38,7 @@ public class danji_2667 {
 		
 		for(int i=0; i<x; i++) {
 			for(int j=0; j<x; j++) {
-				dan[a][b] = 
+				dan[a][b] = ////
 			}
 		}
 		return count;
