@@ -18,8 +18,8 @@ public class chespan_1018 {
 			}
 		}
 		int result = Integer.MAX_VALUE;
-		for(int i=0; i<M-8; i++) {
-			for(int j=0; j<N-8; j++) {
+		for(int i=0; i<=M-8; i++) {
+			for(int j=0; j<=N-8; j++) {
 				result = Math.min(result, solution(i, j));
 			}
 		}
