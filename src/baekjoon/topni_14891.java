@@ -1,9 +1,9 @@
 package baekjoon;
 
-public class dddddddd {
+public class topni_14891 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		//문제부터 읽어보아요^^
 
 	}
 
