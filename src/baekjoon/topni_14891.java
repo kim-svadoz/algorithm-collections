@@ -57,7 +57,7 @@ class Main {
         }
     }
  
-    // 오른쪽에 있던 톱니바퀴 회전 여부 결정
+    // 오른쪽에 있던 톱니바퀴 회전 여부 결정ㅎㅎ
     static void right(int idx, int dir) {
         if(idx > 3)
             return;
