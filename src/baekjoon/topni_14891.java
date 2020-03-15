@@ -21,7 +21,7 @@ class Main {
  
         int k = stoi(br.readLine());
  
-        // Åé´Ï¹ÙÄû È¸Àü
+        // Åé´Ï¹ÙÄû È¸Àüddd
         for(int i=0; i<k; i++) {
             st = new StringTokenizer(br.readLine());
             int idx = stoi(st.nextToken());
