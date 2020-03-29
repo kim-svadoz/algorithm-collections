@@ -49,13 +49,7 @@ public class KAKAO_Intern2020_03 {
 				}
 				System.out.println("usertmp"+usertmp);
 					 
-				for(int k=0; k<bantmp.size();k++) {
-					if(!bantmp.get(k).equals("*")) {
-						if(usertmp.get(k).equals(bantmp.get(k))) {
-							cnt++;
-						}
-					}
-				}
+				
 				
 				usertmp.clear();
 			}
