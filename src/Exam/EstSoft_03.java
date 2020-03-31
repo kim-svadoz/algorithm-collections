@@ -5,7 +5,7 @@ public class EstSoft_03 {
 		int[] A = {1, 2, 3, 4};
 		solution(A);
 	}
-	
+	//////
 	public static int solution(int[] A) {
 		int cnt = 0;
 		int res = 0;
