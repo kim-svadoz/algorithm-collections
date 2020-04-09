@@ -1,6 +1,6 @@
 package LeetCode;
 
-//dfs
+//dfs, 
 class LC200_NumberOfIsland_DFS {
 	public int numIslands(char[][] grid) {
 		int numIslands = 0;
