@@ -8,6 +8,7 @@ import javax.swing.tree.TreeNode;
 left self right
 Binary Search Tree : 왼쪽 섭트리는 나보다 다 작고, 오른쪽 섭트리는 나보다 다 크고.
 
+어느상황에서 BST를 쓰는지 알아보자.
 */
 public class LC173_BinarySearchTreeIterator {
 	Stack<TreeNode> stack = new Stack<>();
