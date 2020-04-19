@@ -2,6 +2,7 @@ package Exam;
 
 public class DevMatch_01 {
 
+	//리팩토링하기.
 	public static void main(String[] args) {
 		String P = "82195";
 		String S = "64723";
