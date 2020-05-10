@@ -26,8 +26,7 @@ public class KAKAO_INTERN_02 {
         	System.out.println(mC.get(i));
         }
         //연산자 우선순위 정하기
-        
-        
+     
         
         System.out.println();
         for(int i=0; i<num.length; i++) {
