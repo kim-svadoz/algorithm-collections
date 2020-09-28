@@ -23,7 +23,7 @@ class LC37_SudokuSolver {
 			return backtrack(board, idx+1);
 		}else {
 			for(int i=1; i<=9; i++) {
-				board[row][col] = (char)i;
+				board[row][col] = Integer.toString(i).charAt(0);
 				if(isValidSudoku(board)) {
 					boolean b = backtrack(board, idx + 1);
 					if(b) return b;
